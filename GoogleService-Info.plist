@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>737643881181-mc929ffber45kq5l0b6tqndkf8dgbd5o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.737643881181-mc929ffber45kq5l0b6tqndkf8dgbd5o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD92B7Ge5yA3pWnZ9kGY0h97a8b_5ARMcY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>737643881181</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>unam.mx.appIngenieria</string>
+	<key>PROJECT_ID</key>
+	<string>appinge-9107e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>appinge-9107e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:737643881181:ios:942ca914a7e6ccd797f134</string>
+	<key>DATABASE_URL</key>
+	<string>https://appinge-9107e-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
